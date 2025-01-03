@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7879f042.css",
+    "main.js": "/static/js/main.c6ae7c5e.js",
+    "static/media/resetPassword.jpg": "/static/media/resetPassword.e1cb1d8746ca67a405cd.jpg",
+    "static/media/chargeXLoginBackground.jpg": "/static/media/chargeXLoginBackground.cad8e132202e35202799.jpg",
+    "static/media/forgotPassword.jpg": "/static/media/forgotPassword.c3543af8e1a79e3a2921.jpg",
+    "static/media/chargeXRegister.jpg": "/static/media/chargeXRegister.c6fc2858a1881aacd9b5.jpg",
+    "index.html": "/index.html",
+    "main.7879f042.css.map": "/static/css/main.7879f042.css.map",
+    "main.c6ae7c5e.js.map": "/static/js/main.c6ae7c5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7879f042.css",
+    "static/js/main.c6ae7c5e.js"
+  ]
+}

@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "Tesla Model S" },
+    { "id": 2, "name": "Nissan Leaf" },
+    { "id": 3, "name": "Chevrolet Bolt EV" },
+    { "id": 4, "name": "BMW i3" },
+    { "id": 5, "name": "Hyundai Kona Electric" },
+    { "id": 6, "name": "Ford Mustang Mach-E" }
+  ]
+  
