@@ -2,7 +2,7 @@
 
 VoltFinder is a web application that helps users find nearby electric vehicle (EV) charging stations. The app provides real-time location data for EV charging points, helping users locate the nearest stations.
 
-You can visit the project repository on [GitHub](https://volt-finder-frontend.vercel.app/register) for live site.
+You can visit the project repository on [Weblink to Voltfinder](https://volt-finder-frontend.vercel.app/register) for live site.
 
 ## Features
 - **Real-time EV charging station data**: Find nearby EV charging stations with the help of Google Maps API.
